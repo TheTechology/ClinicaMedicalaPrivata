@@ -12,7 +12,8 @@
 
 ### Demo Screeshots
 
-![Doclab Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Design fără titlu-2](https://user-images.githubusercontent.com/110493446/202455607-9ddc0dfd-035d-4b22-b9da-a35836bd3eb4.png)
+
 
 ### Prerequisites
 
